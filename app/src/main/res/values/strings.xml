@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI Kalkulator</string>
+    <string name="berat">Masukkan Berat Badan (KG)</string>
+    <string name="tinggi">Masukkan Tinggi Badang (m2)</string>
+    <string name="hasil">Hasil</string>
+</resources>
